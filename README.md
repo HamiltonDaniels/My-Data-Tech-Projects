@@ -1,4 +1,5 @@
 Hi, I’m @Hamilton Conceicao
+- I live in London
 - 👀 I’m interested in Data Science and Machine Learning, Open Source Projects and Collaborating on innovative Coding Solutions.
 - 🌱 I’m currently learning Machine Learning Models and Frameworks, Statistical Analysis and Visualisation with Python, Power BI, Tableau, SQL, Excel.
 - 💞️ I’m looking to collaborate on Open-source contribuitions related to Data Analysis and Data Visualization tools.
