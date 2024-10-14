@@ -10,7 +10,7 @@ Hi, I’m @Hamilton Conceicao
 [GitHub] - https://github.com/HamiltonDaniels
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy Working out, dancing and exploring new technologies in my spare time.
+- ⚡ Fun fact: I enjoy fitness, football, dancing and exploring new technologies in my spare time.
 
 <!---
 HamiltonDaniels/HamiltonDaniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
